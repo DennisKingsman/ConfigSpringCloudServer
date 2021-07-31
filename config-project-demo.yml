@@ -1,2 +1,2 @@
 my:
-  greeting: Hello from SpringCloud config server for congig-project-demo mcs
+  greeting: Hello from SpringCloud config server for congig-project-demo mcs and now it's refreshed!
